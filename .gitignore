@@ -139,6 +139,11 @@ vc-fileutils.settings
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/*.db
+.editorconfig
+data
+data/
+docs
+docs/
 
 #cmake
 CMakeLists.txt
